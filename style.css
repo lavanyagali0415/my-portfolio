@@ -1,12 +1,13 @@
 body{
-background-color:#fff0f5;
+background-color:yellow;
 text-align:center;
 font-family:Arial;
 }
 h1{
-color:#d63384;
+color:black;
+font-size:50px;  
 }
 p{
-  color:#333;
-font-size: 18px;
+  color:black;
+font-size: 25px;
 }
